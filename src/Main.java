@@ -57,8 +57,6 @@ public class Main {
                     System.out.println("Select any one of the Service from above displayed options");
 
             }
-            // Runtime.getRuntime().exec("cls");
-            //Runtime.getRuntime().exec("cmd /c cls");
         }
     }
 }
