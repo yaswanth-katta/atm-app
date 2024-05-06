@@ -1,8 +1,6 @@
 package com.atm.verification;
 
-/**
- * Created by venu singh katta on 8/30/2019.
- */
+
 public class BankVerification {
 
 
